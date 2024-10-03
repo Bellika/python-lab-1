@@ -1,9 +1,15 @@
 ```plaintext
+Use Python in CLI to run the game and follow the instructions(the game is in Swedish): 
+
+python main.py
+
+Flowchart for code: 
+
 Start
    ↓
-Player Input: "Choose Rock, Paper, or Scissors"
+Player Input: "Sten, Sax, or Påse"
    ↓
-Computer Input: (Randomly choose Rock, Paper, or Scissors)
+Computer Input: (Randomly choose Sten, Sax, or Påse)
    ↓
 Compare Choices:
    ┌─────────────────────────┐
