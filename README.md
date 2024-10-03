@@ -23,5 +23,3 @@ Compare Choices:
                        ↓                   ↓
                    End Game           End Game
 
-
-
